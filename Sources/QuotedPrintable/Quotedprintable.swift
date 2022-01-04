@@ -1,5 +1,5 @@
 //
-//  quotedprintable.swift
+//  Quotedprintable.swift
 //  unchained
 //
 //  Created by Johannes Schriewer on 13/12/15.
