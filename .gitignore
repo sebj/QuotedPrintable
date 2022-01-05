@@ -1,5 +1,5 @@
-.build
-Packages/
-.atllbuild/
-QuotedPrintable.sublime-workspace
-bin/
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+.swiftpm
